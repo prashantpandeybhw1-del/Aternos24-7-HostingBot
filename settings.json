@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "funtime-jkov.aternos.me:29322",
+    "port": 29322,
     "version": "",
     "try-creative": false
   },
